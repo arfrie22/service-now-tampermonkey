@@ -3,12 +3,11 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://*.service-now.com/kb_view.do
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Andrew Friedman
 // @description Adds a link to the KB page via the KB number
 // @updateURL   https://github.com/arfrie22/service-now-tampermonkey/raw/main/service_now_kb_linker.user.js
 // @downloadURL https://github.com/arfrie22/service-now-tampermonkey/raw/main/service_now_kb_linker.user.js
-// @noframes
 // ==/UserScript==
 
 const params = (new URL(document.location)).searchParams;
