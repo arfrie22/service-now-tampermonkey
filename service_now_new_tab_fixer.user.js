@@ -6,7 +6,7 @@
 // @match       https://*.service-now.com/incident.do
 // @match       https://*.service-now.com/cmdb*.do
 // @grant       none
-// @version     1.11
+// @version     1.1.1
 // @author      Andrew Friedman
 // @description Fixes service now not showing the main bar if you open a tab in a new url
 // @updateURL   https://github.com/arfrie22/service-now-tampermonkey/raw/main/service_now_new_tab_fixer.user.js
