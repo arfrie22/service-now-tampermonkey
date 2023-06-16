@@ -12,6 +12,7 @@
 // @updateURL   https://github.com/arfrie22/service-now-tampermonkey/raw/main/service_now_new_tab_fixer.user.js
 // @downloadURL https://github.com/arfrie22/service-now-tampermonkey/raw/main/service_now_new_tab_fixer.user.js
 // @noframes
+// @run-at      document-start
 // ==/UserScript==
 
 // Make sure this runs in main window
