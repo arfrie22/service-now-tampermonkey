@@ -3,6 +3,8 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://*.service-now.com/sc*.do
 // @match       https://*.service-now.com/kb*.do
+// @match       https://*.service-now.com/incident.do
+// @match       https://*.service-now.com/cmdb*.do
 // @grant       none
 // @version     1.1
 // @author      Andrew Friedman
